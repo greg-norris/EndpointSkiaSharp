@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dell\\source\\repos\\EndpointDisplayTest\\EndpointDisplayTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dell\\source\\repos\\EndpointDisplayTest\\EndpointDisplayTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\EndpointDisplayTest\\EndpointDisplayTest.csproj",
+        "projectName": "EndpointDisplayTest",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\EndpointDisplayTest\\EndpointDisplayTest.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\EndpointDisplayTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\dell\\Desktop\\GHI Stuff\\Local Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GHIElectronics.Endpoint.Core": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            },
+            "GHIElectronics.Endpoint.Devices.Adc": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            },
+            "GHIElectronics.Endpoint.Devices.Display": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            },
+            "GHIElectronics.Endpoint.Devices.Pwm": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            },
+            "GHIElectronics.Endpoint.Devices.Spi": {
+              "target": "Package",
+              "version": "[0.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
