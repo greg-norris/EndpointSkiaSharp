@@ -118,8 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
- 
-	<data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-		<value>..\Resources\logo.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-	</data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OldeEnglish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OldeEnglish.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sprialLoopSized" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sprialLoopSized;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="topSecret2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\topSecret2;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="topSecret3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\topSecret3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="topSecret4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\topSecret4;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="topSecret5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\topSecret5;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="topSecret6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\topSecret6;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
