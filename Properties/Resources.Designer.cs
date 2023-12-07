@@ -63,6 +63,26 @@ namespace EndpointDisplayTest.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] button {
+            get {
+                object obj = ResourceManager.GetObject("button", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] endpointLooping {
+            get {
+                object obj = ResourceManager.GetObject("endpointLooping", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
@@ -93,39 +113,9 @@ namespace EndpointDisplayTest.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] topSecret2 {
-            get {
-                object obj = ResourceManager.GetObject("topSecret2", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
         internal static byte[] topSecret3 {
             get {
                 object obj = ResourceManager.GetObject("topSecret3", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] topSecret4 {
-            get {
-                object obj = ResourceManager.GetObject("topSecret4", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] topSecret5 {
-            get {
-                object obj = ResourceManager.GetObject("topSecret5", resourceCulture);
                 return ((byte[])(obj));
             }
         }
