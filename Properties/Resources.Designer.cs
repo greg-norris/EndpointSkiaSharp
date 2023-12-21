@@ -63,9 +63,9 @@ namespace EndpointDisplayTest.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] button {
+        internal static byte[] endpointFireworks {
             get {
-                object obj = ResourceManager.GetObject("button", resourceCulture);
+                object obj = ResourceManager.GetObject("endpointFireworks", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,39 @@ namespace EndpointDisplayTest.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] endpointLooping {
+        internal static byte[] fireworks10 {
             get {
-                object obj = ResourceManager.GetObject("endpointLooping", resourceCulture);
+                object obj = ResourceManager.GetObject("fireworks10", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] fireworks25percent {
+            get {
+                object obj = ResourceManager.GetObject("fireworks25percent", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] fireworks50percent {
+            get {
+                object obj = ResourceManager.GetObject("fireworks50percent", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] fireworks8 {
+            get {
+                object obj = ResourceManager.GetObject("fireworks8", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -86,46 +116,6 @@ namespace EndpointDisplayTest.Properties {
         internal static byte[] logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] OldeEnglish {
-            get {
-                object obj = ResourceManager.GetObject("OldeEnglish", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] sprialLoopSized {
-            get {
-                object obj = ResourceManager.GetObject("sprialLoopSized", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] topSecret3 {
-            get {
-                object obj = ResourceManager.GetObject("topSecret3", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] topSecret6 {
-            get {
-                object obj = ResourceManager.GetObject("topSecret6", resourceCulture);
                 return ((byte[])(obj));
             }
         }
